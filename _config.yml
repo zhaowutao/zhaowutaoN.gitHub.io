@@ -1,5 +1,22 @@
-# Site settings
+# Site settings                 #基础设置
 title:You Blog  #你博客的标题
 SEOTitle:你的博客  | You Blog    #显示在浏览器上搜索的时候显示的标题
 header-img:img/post-bg-rwd.jpg  #显示在首页的背景图片
 email:You@qq.com
+description:"You Blog"          #网站介绍
+keyword:"BY,BY Blog,柏盈的博客，qiubaiying,邱柏英，iOS,Apple,iPhone"  #关键字
+url："https://zhaowutao.github.io"     #这个就是填写你的博客地址
+baseurl:""                      #这个我们不用填写
+
+#Sidebar settings               #侧边栏
+sidebar:true                    是否开启侧边栏.
+sidebar-about-description:"说点装逼的话。。。"
+sidebar-avatar:/img/avatar-by.JPG      #你的个人头像  这里你可以改成我在img路径
+
+#SNS settings                   #社交账号
+RSS:false
+weibo_username: ""
+zhihu_username:""
+github_username:""
+facebook_username:""
+jianshu_username:""
